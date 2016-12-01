@@ -8,12 +8,12 @@
 			 This way you can give them in any order and skip some columns if you want.
 		-->
 		<row id="1">
-			<column name="country">uk</column>
-			<column name="age">33</column>
-			<column name="name">Duke</column>
-			<column name="firstname">Patience</column>
+			<column name="country">ie</column>
+			<column name="age">41</column>
+			<column name="name">David</column>
+			<column name="firstname">Bowie</column>
 			<column name="height">1.842</column>
-			<column name="email">patience.duke@gmail.com</column>
+			<column name="email">thinwhiteduke@gmail.com</column>
 			<column name="lastvisit">11/12/2002</column>
 		</row>
 
