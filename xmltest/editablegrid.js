@@ -1,24 +1,20 @@
-
-
-
-
 <!DOCTYPE html>
 <html lang="en" class=" is-copy-enabled emoji-size-boost">
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
     <meta charset='utf-8'>
-    
+
 
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-c64b206fb6104fd10a7b4f7460f970885149c62649a7414df084683d7a0f7bf3.css" integrity="sha256-xksgb7YQT9EKe090YPlwiFFJxiZJp0FN8IRoPXoPe/M=" media="all" rel="stylesheet" />
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-7a67c407baa2920f9b06dafc83f5c1b2dce09d48421c77ad18336888931edeb9.css" integrity="sha256-emfEB7qikg+bBtr8g/XBstzgnUhCHHetGDNoiJMe3rk=" media="all" rel="stylesheet" />
-    
-    
+
+
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/site-0aa4f1a4bd9907ebd09f265a95d4856cabf513dd39b891f737b1b35c39f12564.css" integrity="sha256-CqTxpL2ZB+vQnyZaldSFbKv1E905uJH3N7GzXDnxJWQ=" media="all" rel="stylesheet" />
-    
+
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Language" content="en">
     <meta name="viewport" content="width=device-width">
-    
+
     <title>editablegrid/editablegrid.js at master · webismymind/editablegrid · GitHub</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -39,9 +35,9 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    
+
     <meta name="pjax-timeout" content="1000">
-    
+
     <meta name="request-id" content="562C8CC9:7584:21B24A0A:5840653D" data-pjax-transient>
 
     <meta name="msapplication-TileImage" content="/windows-tile.png">
@@ -75,9 +71,9 @@
     <meta content="10c1d0a1b12220879b280885d807753958a34ea0" name="form-nonce" />
 
     <meta http-equiv="x-pjax-version" content="a779eaa0742d37865ecab9db55a2cfa8">
-    
 
-      
+
+
   <meta name="description" content="editablegrid - EditableGrid is an open source Javascript library aimed at turning HTML tables into advanced editable components. It focuses on simplicity: only a few lines of code are required to get your first table up and running.">
   <meta name="go-import" content="github.com/webismymind/editablegrid git https://github.com/webismymind/editablegrid.git">
 
@@ -93,9 +89,9 @@
     <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
     <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
 
-    
-    
-    
+
+
+
 
 
 
@@ -163,11 +159,11 @@
     <div role="main">
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode">
     <div id="js-repo-pjax-container" data-pjax-container>
-      
+
 <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav">
   <div class="container repohead-details-container">
 
-    
+
 
 <ul class="pagehead-actions">
 
@@ -225,7 +221,7 @@
 
   </div>
   <div class="container">
-    
+
 <nav class="reponav js-repo-nav js-sidenav-container-pjax"
      itemscope
      itemtype="http://schema.org/BreadcrumbList"
@@ -279,17 +275,17 @@
 <div class="container new-discussion-timeline experiment-repo-nav">
   <div class="repository-content">
 
-    
+
 
 <a href="/webismymind/editablegrid/blob/5be291aa8b06459d1207f2b17cd9049624408fdd/editablegrid.js" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
 <!-- blob contrib key: blob_contributors:v21:cd583365ed3bce400663cfcab5ef2bad -->
 
 <div class="file-navigation js-zeroclipboard-container">
-  
+
 <div class="select-menu branch-select-menu js-menu-container js-select-menu float-left">
   <button class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
-    
+
     type="button" aria-label="Switch branches or tags" tabindex="0" aria-haspopup="true">
     <i>Branch:</i>
     <span class="js-select-button css-truncate-target">master</span>
@@ -635,7 +631,7 @@
   </div>
 </div>
 
-  
+
 
   <div itemprop="text" class="blob-wrapper data type-javascript">
       <table class="highlight tab-size js-file-line-container" data-tab-size="8">
@@ -10059,7 +10055,7 @@
 
 
 
-    
+
 
     <div id="ajax-error-message" class="ajax-error-message flash flash-error">
       <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
@@ -10070,13 +10066,13 @@
     </div>
 
 
-      
+
       <script crossorigin="anonymous" integrity="sha256-fjanzKa4+830KgspYm1AVfW3AW7BlFuO/ZxrAUZgpuY=" src="https://assets-cdn.github.com/assets/frameworks-7e36a7cca6b8fbcdf42a0b29626d4055f5b7016ec1945b8efd9c6b014660a6e6.js"></script>
       <script async="async" crossorigin="anonymous" integrity="sha256-phuD656wdwBR6aXtqxyyZraKPd3IrX4f/wzCxfSducI=" src="https://assets-cdn.github.com/assets/github-a61b83eb9eb0770051e9a5edab1cb266b68a3dddc8ad7e1fff0cc2c5f49db9c2.js"></script>
-      
-      
-      
-      
+
+
+
+
     <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
       <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
       <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
@@ -10094,4 +10090,3 @@
 
   </body>
 </html>
-
