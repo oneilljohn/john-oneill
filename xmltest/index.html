@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>Coolmine Live</title>
+		<title>EditableGrid - Minimal demo - Load grid from XML</title>
 
 		<script src="editablegrid.js"></script>
 		<!-- [DO NOT DEPLOY] --> <script src="../../editablegrid_renderers.js" ></script>
@@ -28,14 +28,14 @@
 			window.onload = function() {
 				editableGrid = new EditableGrid("DemoGridMinimal");
 				editableGrid.tableLoaded = function() { this.renderGrid("tablecontent", "testgrid"); };
-				editableGrid.loadXML("data.xml");
+				editableGrid.loadXML("grid.xml");
 			}
 		</script>
 
 	</head>
 
 	<body>
-		<h1>Coolmine Live</h1>
+		<h1>EditableGrid - Minimal Demo - Loading grid from XML - <a href="../index.html">Back to menu</a></h1>
 		<div id="tablecontent"></div>
 	</body>
 
