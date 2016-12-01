@@ -4,7 +4,7 @@
 
 	<data>
 
-		<!-- NB: It is recommended to name your columns.
+		<!-- It is recommended to name your columns.
 			 This way you can give them in any order and skip some columns if you want.
 		-->
 		<row id="1">
